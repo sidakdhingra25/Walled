@@ -12,7 +12,7 @@ Seemlessly generate priority to-do wallpapers
 ### Local Set-Up
 
 ```bash
-$ git clone https://github.com/aviralj02/Walled_it.git
+$ git clone https://github.com/sidakdhingra25/Walled
 $ cd Walled
 $ yarn
 $ yarn dev

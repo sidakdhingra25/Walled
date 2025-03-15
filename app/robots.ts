@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: ["/"],
       disallow: "/private/",
     },
-    sitemap: "https://Walled-it-olive.vercel.app/sitemap.xml",
+    sitemap: "https://walled-sidakdhingra25s-projects.vercel.app/",
   };
 }
