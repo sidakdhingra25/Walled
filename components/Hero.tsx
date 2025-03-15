@@ -118,7 +118,7 @@ const Hero = (props: Props) => {
           </Button>
         </Link>
 
-        <a target="_blank" href="https://github.com/aviralj02/Walled_it">
+        <a target="_blank" href="https://github.com/sidakdhingra25/Walled">
           <Button
             className="flex rounded-full items-center gap-2"
             size="sm"
